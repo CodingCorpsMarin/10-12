@@ -15,3 +15,5 @@ Example:
 https://webdesign.tutsplus.com/tutorials/a-beginners-guide-to-ajax-with-jquery--cms-25126
 AJAX in Sinatra (cmd+f "ajax"):
 https://www.sitepoint.com/sinatras-little-helpers/
+Your jQuery/AJAX Forms probably need this method:
+https://api.jquery.com/serialize/
